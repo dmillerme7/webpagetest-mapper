@@ -1,5 +1,18 @@
 # History
 
+## 1.0.0
+
+* Cease support for `node` `0.10`
+* Updating `bfj` dependency to `1.2.x` 
+
+## 0.4.0
+
+* Allow the `tests` fetch option to be passed as an array
+
+## 0.3.0
+
+* Express values in terms of RTT in the html-comparison mapper.
+
 ## 0.2.2
 
 * Write dump file asynchronously.

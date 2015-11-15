@@ -364,7 +364,7 @@ supporting the following properties:
   The WebPageTest connection speed.
   The default is `Native Connection`.
 * `tests`:
-  Path to the test definitions file.
+  Path to the test definitions file or an array of test definitions.
   The default is `tests.json`.
 * `count`:
   The number of times
@@ -600,7 +600,7 @@ with the command `npm test`.
 
 ## What versions of node.js does it support?
 
-0.10, 0.12, latest stable io.js
+0.12 or greater
 
 ## What license is it released under?
 
